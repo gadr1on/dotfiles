@@ -1,9 +1,7 @@
-# Ignore everything
-*
-
-# But not these files...
+.*
+Desktop/
 !.gitignore
 !.gitconfig
-!.config/
 !.tmux.conf
 !.zshrc
+!.config/
