@@ -5,3 +5,6 @@
   user = gadr1on
 [credential]
   helper = store
+[user]
+  name = gadrion
+  email = gadrionpr@gmail.com
