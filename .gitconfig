@@ -1,0 +1,7 @@
+[core]
+  editor = nvim
+  autocrlf = true
+[github]
+  user = gadr1on
+[credential]
+  helper = store
